@@ -25,7 +25,8 @@ The Big dataset of ultra marathon running
 
 ## Idée 2:
 
-Optimisation de l'éffort d'un coureur à l'aide de sa foulée
+Prédire l’efficacité énergétique d’un coureur à partir de sa pose 3D, quelles déformations de la foulée annoncent sa dégradation, et que gagne-t-on par rapport à une montre seule ?
+
 
 ### Données
 - Capture vidéo de la foulée d'un coureur
