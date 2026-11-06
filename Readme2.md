@@ -34,3 +34,7 @@ Identifier le coup à jouer en fonction de la position de l'adversaire.
 Identifier les enchaînements de 1, 2, 3 coups qui fonctionnent bien quel que soit l'adversaire.
 
 
+
+## Sujet 3 : Reconnaissance d'individus en fonction de leur vitesse d'écriture au clavier
+
+## Sujet 4 : Qualité des manteaux au Canada
